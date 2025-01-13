@@ -1,0 +1,36 @@
+
+Git&GitHub Introduction
+    • What is Git?
+
+    • What is GitHub?
+    • Why we need Git & GitHub?
+    • Are there alternative hosting services similar to GitHub?
+    • Which hosting service is most popular?
+    • What is Git Work Flow?
+    • What is Working directory?
+    • What is Staging area?
+    • What is Repository?
+    • What is Local Repository?
+    • What is Remote Repository?
+    • How to set up your GitHub account in IntelliJ?
+    • How to create local git repo for a new project in IntelliJ?
+    • How to create a new project from working directory to remote repository and set up git?
+    • How to create a new project from remote repository to working directory and set up git?
+    • Why we need .gitIgnore file?
+    • Why aren't the .idea, out, or .iml files visible to me?
+    • How can I see .idea, out, or .iml files?
+    • How can I remove git connection from my java project?
+    • Why do the files have different colors after enabling Git?
+    • Why are the .idea, out, or .iml files still present on GitHub despite being added to the .gitignore?
+    • Why am I getting an "Unsupported Git Version" error?
+    • Why does IntelliJ show me an error when committing and have an option to commit anyway?
+
+Team Collaboration and Branch Strategy
+    •Creating a new java project(Team Lead or one selected person)
+    •Accepting the invitation and cloning the project(Other Team Members)
+    •Creating branch
+    •Commit and Push (on IntelliJ)
+    •Creating a pull request
+    •General  practice steps
+    •Conflict practice steps
+    •Branch practice steps
